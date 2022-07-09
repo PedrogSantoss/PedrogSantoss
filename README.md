@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @PedrogSantoss
+- 👋 Hi, I'm Pedro Guilherme Santos Nascimento
 - 👀 I am interested in acquiring knowledge in database and artificial intelligence
 - 🌱 I'm focused on learning Java, Javascript, Python, Html and Css programming languages.
 - 💞️ I am happy to collaborate with others in the search for knowledge in the technological world.
