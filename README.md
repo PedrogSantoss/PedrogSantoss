@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá muito prazer, eu sou o <a href="https://www.linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180/"><i>Pedro Guilherme Santos Nascimento</i></a> 😃️</h1>
+  <h1 align="center">Olá muito prazer, meu nome é <a href="https://www.linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180/"><i>Pedro Guilherme Santos Nascimento</i></a> 😃️</h1>
   <p align="center">Estudo Ciência da Computação na<a href="https://www.wyden.com.br/"><i> UniFavip Wyden</i></a> 
 </div>
 
