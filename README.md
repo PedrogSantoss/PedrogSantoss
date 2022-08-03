@@ -41,5 +41,5 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/PedrogSantoss/PedrogSantoss/tree/main/.github/workflows)
+  ![Snake animation](https://github.com/PedrogSantoss/PedrogSantoss/blob/output/github-contribution-grid-snake.svg)
 </div>
