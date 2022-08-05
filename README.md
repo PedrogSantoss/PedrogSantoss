@@ -1,6 +1,23 @@
-<div>
-  <h1 align="center">Olá muito prazer, meu nome é <a href="https://www.linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180/"><i>Pedro Guilherme Santos Nascimento</i></a> 😃️</h1>
-  <p align="center">Estudo Ciência da Computação na<a href="https://www.wyden.com.br/"><i> UniFavip Wyden</i></a> 
+<h1 align='center'>
+  Muito prazer, eu sou Pedro Guilherme Santos Nascimento!
+</h1>
+
+<p align='center'>
+  Desenvolvedor Front-End
+</p>
+
+### Sobre mim:
+
+<p>
+  <em>
+    Tenho 21 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
+  </em>
+</p>
+
+- Atualmente estou aprendendo JavaScript, TypeScript, Angular, Node.js
+- Estudante de Ciência da Computação na<a href="https://www.wyden.com.br/"><i> UniFavip Wyden</i></a> 
+- Meu email: pedro_nascimento12@hotmail.com
+
 </div>
 
 
@@ -13,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/PedrogSantoss">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedrogSantoss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrogSantoss&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedrogSantoss&show_icons=true&hide_border=true&count_private=true&theme=dracula&hide_border"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrogSantoss&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact"/>
   </a>
 </div>
 
@@ -33,9 +50,9 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/pedrogsantoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.twitter.com/in/pedrogsantoss/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pedrogsantoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5581998425105&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="pedros.nascimento12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
