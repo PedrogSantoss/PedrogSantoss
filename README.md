@@ -9,9 +9,9 @@
 ### Sobre mim:
 
 <p>
-  <em>
+  <strong>
     Tenho 21 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
-  </em>
+  </strong>
 </p>
 
 - Atualmente estou aprendendo JavaScript, TypeScript, Angular, Node.js
