@@ -10,7 +10,7 @@
 
 <p>
   <strong>
-    Tenho 21 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
+    Tenho 22 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
   </strong>
 </p>
 
@@ -44,6 +44,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">-->
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
