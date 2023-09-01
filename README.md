@@ -10,7 +10,7 @@
 
 <p>
   <strong>
-    Tenho 22 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
+    Tenho 23 anos, sou de Caruaru-PE e estou seguindo minha jornada para me tornar um desenvolvedor Front-End.Jr
   </strong>
 </p>
 
