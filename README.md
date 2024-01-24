@@ -15,7 +15,7 @@
 </p>
 
 - Atualmente estou aprendendo JavaScript, React, Angular, Node.js
-- Estudante de Ciência da Computação na<a href="https://www.wyden.com.br/"><i> UniFavip Wyden</i></a> 
+- Formado em Ciência da Computação na<a href="https://www.wyden.com.br/"><i> UniFavip Wyden</i></a> 
 - Meu email: pedro_nascimento12@hotmail.com
 
 </div>
