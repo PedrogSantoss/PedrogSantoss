@@ -1,32 +1,59 @@
-<h1 align='center'>
-  Muito prazer, eu sou Pedro Guilherme Santos Nascimento!
-</h1>
+# 👋 Olá! Eu sou Pedro Guilherme Santos Nascimento
 
-<p align='center'>
-  Desenvolvedor Front-End
-</p>
+### 🚀 Desenvolvedor Front-End | Técnico em Informática | Profissional de TI
 
-### Sobre mim:
+Sou profissional de Tecnologia com formação em **Ciência da Computação** e experiência prática em suporte técnico e infraestrutura.
+Atualmente atuo como **Técnico em Informática Jr na Anhanguera Educacional**, enquanto direciono minha carreira para o **Desenvolvimento Front-End**, criando interfaces modernas, acessíveis e funcionais.
 
-<p>
-  <strong>
-    Tenho 25 anos, sou de Caruaru-PE e atualmente trabalho como Técnico em Informática Jr na Anhanguera Educacional.
-    Sou formado em Ciência da Computação pela <a href="https://www.wyden.com.br/"><i>UniFavip Wyden</i></a> e estou cursando minha segunda graduação em Redes de Computadores pela <a href="https://www.anhanguera.com/"><i>Faculdade Anhanguera</i></a>.
-  </strong>
-</p>
+---
 
-<p>
-  <strong>
-    Possuo Pós-Graduação em Desenvolvimento Front-End e Pós-Graduação em Arquitetura e Gestão em Infraestrutura de TI — ambas pela Anhanguera.
-    Busco oportunidades na área de desenvolvimento, com foco em criar interfaces modernas, intuitivas e funcionais.
-  </strong>
-</p>
+## 🎓 Formação
 
-- Atualmente estou aprendendo **JavaScript, React, Angular, Node.js e SQL**
-- Formado em **Ciência da Computação** pela UniFavip Wyden
-- Pós-graduado em **Desenvolvimento Front-End** e **Arquitetura e Gestão em Infraestrutura de TI**
-- Cursando **Segunda Graduação em Redes de Computadores** pela Anhanguera
-- 📧 Meu e-mail: **pedro_nascimento12@hotmail.com**
+* **Bacharel em Ciência da Computação** – UniFavip Wyden
+* **Pós-Graduação em Desenvolvimento Front-End** – Anhanguera
+* **Pós-Graduação em Arquitetura e Gestão em Infraestrutura de TI** – Anhanguera
+* **Graduando em Redes de Computadores** – Anhanguera
+
+---
+
+## 💻 Tecnologias
+
+**Front-End**
+
+* JavaScript | React | Angular
+* HTML5 | CSS3 | Responsividade
+
+**Back-End & Dados**
+
+* Node.js | SQL | MySQL
+
+**Ferramentas**
+
+* Git | GitHub | VS Code
+
+**Infra & Suporte**
+
+* Windows, Redes, ITSM/Helpdesk
+* Manutenção de hardware e software
+
+---
+
+## 📚 Estudando atualmente
+
+* React avançado
+* APIs com Node.js
+* Arquitetura Front-End
+* Banco de Dados SQL
+
+---
+
+## 📫 Contato
+
+* 📧 E-mail: **[pedro_nascimento12@hotmail.com](mailto:pedro_nascimento12@hotmail.com)**
+* 💼 LinkedIn: [https://linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180](https://linkedin.com/in/pedro-guilherme-santos-nascimento-588a33180)
+* 💻 GitHub: [https://github.com/PedrogSantoss](https://github.com/PedrogSantoss)
+* 📱 WhatsApp: [https://wa.me/5581998425105](https://wa.me/5581998425105)
+
 
 <div align="center">
   <a href="https://github.com/PedrogSantoss">
