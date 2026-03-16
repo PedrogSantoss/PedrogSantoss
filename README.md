@@ -106,8 +106,6 @@ Atualmente atuo como **Técnico em Informática Jr na Anhanguera Educacional**, 
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PedrogSantoss/PedrogSantoss/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/PedrogSantoss/PedrogSantoss/blob/output/github-contribution-grid-snake.svg)
 
 ###
